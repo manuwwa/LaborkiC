@@ -1,5 +1,5 @@
 LaborkiC
 ========
 
-WAT Zadania laboratoryjne 
+Zadania laboratoryjne 
 
